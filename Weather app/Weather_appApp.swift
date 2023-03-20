@@ -1,9 +1,4 @@
-//
-//  WeatherAppApp.swift
-//  WeatherApp
-//
-//  Created by Pranav Sai on 12/10/22.
-//
+
 
 import SwiftUI
 
