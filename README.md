@@ -21,4 +21,4 @@ For this app, I struggled with retrieving the data from the API. I tried differe
 <img width="506" alt="Screenshot 2023-03-20 at 07 44 10" src="https://github.com/mendaayy/Weather/assets/122844229/ff45b3e9-efea-4c97-861b-d70b4edddc64">
 
 ## Note
-When trying out the app, make sure to fill in the API key!
+When trying out the app, make sure to fill in the Open Weather API key in the WeatherService file line 27.
