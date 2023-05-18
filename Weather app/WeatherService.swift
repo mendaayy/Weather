@@ -24,7 +24,7 @@ struct Wind: Codable {
 
 class WeatherService {
     
-    let weatherAPIKey = "c6faa58d997fcf8caff5e3e6ecb195fe"
+    let weatherAPIKey = "xxxxx" // Open Weather API
     
     func loadWeatherData(city: String, completion: @escaping (Weather) -> ()) {
         guard let url = URL(string: "https://api.openweathermap.org/data/2.5/weather?q=\(city)&appid=\(weatherAPIKey)&units=metric") else {
